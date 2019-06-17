@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 bookmark.txt created
 
 Browser initialized
@@ -12,3 +13,19 @@ URL Bar Address change implemented
 
 Program Shutdown
 
+=======
+bookmark.txt created
+
+Browser initialized
+
+Form loaded
+
+Bookmark initialized
+
+URL Bar Address change implemented
+
+URL Bar Address change implemented
+
+Program Shutdown
+
+>>>>>>> ba76d6fab1e714dc09e9a2024f05246978ee5f0b
