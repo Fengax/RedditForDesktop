@@ -1,0 +1,14 @@
+bookmark.txt created
+
+Browser initialized
+
+Form loaded
+
+Bookmark initialized
+
+URL Bar Address change implemented
+
+URL Bar Address change implemented
+
+Program Shutdown
+
